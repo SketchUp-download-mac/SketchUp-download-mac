@@ -57,7 +57,7 @@ Use with confidence, knowing your device and data remain secure.
 ## 🖼 Preview
 
 **1. SketchUp Installer Interface**  
-![SketchUp Install](https://static.macupdate.com/screenshots/314525/m/sketchup-screenshot.png?v=1633607997)  
+![SketchUp Install](https://machow2.com/wp-content/uploads/2020/08/sketchup-for-mac-review.jpg)  
 *Simple and clean installation screen.*
 
 **2. SketchUp Workspace**  
